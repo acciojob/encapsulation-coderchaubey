@@ -1,6 +1,6 @@
 package com.driver;
 
-class RWOnly{
+public class RWOnly{
     public String getName() {
         return name;
     }
